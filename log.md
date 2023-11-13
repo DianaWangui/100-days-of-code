@@ -6,4 +6,4 @@
 
 **Thoughts:** Honest opinion, it was not that easy especially dealing with insertion, I still have to work on correct positioning of the element without altering the data in the array. Also I think taking an array from user input is not easy as taking normal data, one has to navigate how to make the ouput look like an array. Othewise am loving the challenge.
 
-**Link to work:** [Datastructure](Data-Structures-Algorithms)
+**Link to work:** [Datastructure](https://github.com/DianaWangui/my-project_practice/tree/main/Data-Structures-Algorithms)
