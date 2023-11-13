@@ -7,3 +7,11 @@
 **Thoughts:** Honest opinion, it was not that easy especially dealing with insertion, I still have to work on correct positioning of the element without altering the data in the array. Also I think taking an array from user input is not easy as taking normal data, one has to navigate how to make the ouput look like an array. Othewise am loving the challenge.
 
 **Link to work:** [Datastructure](https://github.com/DianaWangui/my-project_practice/tree/main/Data-Structures-Algorithms/Task-files-Codes)
+
+
+### Day 1: November 13, 2023
+**Todays Progres**: I worked on array deletion, not a complex task actually. Its like a sister to insertion with a few differences.
+
+**Thoughts**: This was not as much as a challenge since I already knew about insertion. It was a matter of understanding the concept of deleting only and boom...
+
+**Link to work:** [Arraydeletionofelements](https://github.com/DianaWangui/my-project_practice/blob/main/Data-Structures-Algorithms/Task-files-Codes/2-array_deletion.c)
