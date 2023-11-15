@@ -24,3 +24,12 @@
 Also tried implementing how data could be printed out as array data, to look like its data that has been stored together, but not yet done. Will update here when its done.
 
 **Link to work**: [linkedlist](https://github.com/DianaWangui/my-project_practice/tree/main/Data-Structures-Algorithms/Task-files-Codes/linked-list)
+
+### Day 3: November 15, 2023
+
+**Todays Progress**: I worked on inserting at the beginning and at the end of a single linked list. This was a little bit tricky, traversing through the other nodes can be a little challenges especially end insertion.
+You have to be aware of the conditons where the temp is not pointing to a null address.
+
+**Thoughts**: I think the concept of linked list one really needs to use diagrams, to be able to really create lists with having to make simple mistakes especially while traversing
+
+**Link to work**: [linkedlist](https://github.com/DianaWangui/my-project_practice/tree/main/Data-Structures-Algorithms/Task-files-Codes/linked-list)
