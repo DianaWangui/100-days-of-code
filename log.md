@@ -64,3 +64,15 @@ The program then shifts each character in the message by the specified amount, c
 In contrast, decryption involves shifting characters in the opposite direction to reverse the encryption. This straightforward approach allows users to secure and unveil messages with ease.
 
 **Link to work**: [caesarcipher](https://github.com/DianaWangui/my-python_projects/blob/main/caesar_cipher1.py)
+
+### Day 8: November 20, 2023
+
+**Todays Progress**: Worked on a silent bidding project. I used python programming, funtion, import module, dictionary if else and while loop.
+
+**How the project works**: 
+This program allows users to participate in a bidding like process by entering their names and bid amounts. The user is prompted to provide their name and bid amounts.
+ After entering the details, the program stores this information in a dictionary where each user's name is the key with their bid as the value.
+To secrecy between bidders, the program clears the screen after each user entry, ensuring that the next user does not see the previous bidder's information. The bidding process continues until a user chooses to exit by entering 'n' for no when prompted. 
+Once bidding concludes, the program identifies and displays the highest bidder along with their bid amount to the secreen without showing any information of other bidders
+
+**Link to work**: [silentauction](https://github.com/DianaWangui/my-python_projects/blob/main/silent_auction_project.py)
