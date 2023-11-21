@@ -76,3 +76,11 @@ To secrecy between bidders, the program clears the screen after each user entry,
 Once bidding concludes, the program identifies and displays the highest bidder along with their bid amount to the secreen without showing any information of other bidders
 
 **Link to work**: [silentauction](https://github.com/DianaWangui/my-python_projects/blob/main/silent_auction_project.py)
+
+### Day 9: November 21, 2023
+
+**Todays Progress**: Tried working on a simple calculator, managed to create a very basic one for add, subtract, divide and multiplication. I still have few functions I need to work on. This is because I feel like the project needs to work more that it is working now
+
+**How the project works**: It simply ask one to enter their first number, then chose an operator between *, +, -, and /. Then the user is prompted to enter second number. Then it gives the output, then the program asks the user if they want to use the calculator again, loops again until the user choses no.
+
+**Link to work**: [simplecalculator](https://github.com/DianaWangui/my-python_projects/blob/main/simple_cal.py)
