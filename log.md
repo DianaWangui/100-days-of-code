@@ -84,3 +84,10 @@ Once bidding concludes, the program identifies and displays the highest bidder a
 **How the project works**: It simply ask one to enter their first number, then chose an operator between *, +, -, and /. Then the user is prompted to enter second number. Then it gives the output, then the program asks the user if they want to use the calculator again, loops again until the user choses no.
 
 **Link to work**: [simplecalculator](https://github.com/DianaWangui/my-python_projects/blob/main/simple_cal.py)
+
+### Day 10: November 25, 2023
+
+**Todays Progress**: So todays, I was learning Javascript, I am trying to complete the basic challenge of freecodecamp website. There is a project am working on that need knowledge about JS. 
+Havent coded anything but am learning from their website after am done by 27th am definetly going to work on js basic project
+
+**Link** No link today
